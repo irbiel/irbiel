@@ -9,7 +9,7 @@
 
 <h3>_Law Inscribed_</h3>
 
-<h3>_College Women: Documenting the Student Experience at the Seven Sisters Colleges_</h3>
+<h3>*College Women: Documenting the Student Experience at the Seven Sisters Colleges*</h3>
 <p>From 2016-2018, I worked for the NEH-funded College Women project, a multi-college effort to digitally archive the materials of the first students at seven current and former women's colleges.</p>
 <p>This project supported my longtime interests in metadata, controlled vocabulary, and making primary sources available with informed context.</p>
 <p>Vassar College Library has linked my document descriptions at https://digitallibrary.vassar.edu/taxonomies/person/bielat-isabel-descriptor?page=1. In addition to the abstracts of full objects (letters and diaries) described here, I digitally annotated nineteenth-century photo albums by identifying subjects and activities (often college-specific). For example, my annotation to https://digitallibrary.vassar.edu/collections/other-collections/vassar-college-student-photo-albums/d7a8f4d2-209f-4fed-8260 adds complete names and class years to the more limited historic annotations.</p>
