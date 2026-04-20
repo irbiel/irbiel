@@ -7,7 +7,10 @@
 
 <h3>_Clippings Project_</h3>
 
-<h3>_Law Inscribed_</h3>
+<h3><i>Law Inscribed</i></h3>
+<p>In fall 2021, I collaboratively curated a physical and digital exhibit of legal texts from UVA Law Library's Special Collections and the Albert & Shirley Small Special Collections Library. I also suggested the title for the exhibit, "Law Inscribed."</p>
+<p>I photographed, researched, and presented three pamphlets on a seditious libel controversy in the 1760s. I used _Storymaps_ to arrange, magnify, and annotate text features beyond the scope of a physical exhibit. For example, the fragility of the physical objects inspired me to incorporate dramatically-angled photographs of the binding. </p>
+<p>Please see https://archives.law.virginia.edu/exhibits/law-inscribed for the project description and all eight student projects. My personal contribution is at https://archives.law.virginia.edu/exhibits/law-inscribed/bielat/.</p>
 
 <h3><i>College Women: Documenting the Student Experience at the Seven Sisters Colleges</i></h3>
 <p>From 2016-2018, I worked for the NEH-funded College Women project, a multi-college effort to digitally archive the materials of the first students at seven current and former women's colleges.</p>
