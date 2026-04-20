@@ -1,6 +1,7 @@
 <h1>Digital Humanities Portfolio</h1>
 <h2>Isabel Bielat</h2>
 <p> <i>In partial fulfillment of the Graduate Certificate in Digital Humanities, University of Virginia, April 2026</i> </p>
+<p> <i>The following page represents my general Digital Humanities portfolio, organized by project. Publications and experiences are restated more briefly on their respective pages.</i> </p>
 
 <h2><i>Featured Collaborations</i></h2>
 <h3><i>Collective Biographies of Women</i></h3>
