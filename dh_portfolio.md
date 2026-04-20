@@ -1,23 +1,23 @@
 <h1>Digital Humanities Portfolio</h1>
 <h2>Isabel Bielat</h2>
 <p> <i>In partial fulfillment of the Graduate Certificate in Digital Humanities, University of Virginia, April 2026</i> </p>
-<p> <i>The following page represents my general Digital Humanities portfolio, organized by project. Publications are listed again more briefly on the subsequent page. </p>
+<p> <i>The following page represents my general Digital Humanities portfolio, organized by project. Publications are listed again more briefly on the subsequent page. </i></p>
 
 <h2><i>Featured Collaborations</i></h2>
 <h3><i>Collective Biographies of Women</i></h3>
 
 <h4>Digital Humanities Publications associated with <i>Collective Biographies of Women</i></h4>
-<p>With Alison Booth, “A Mid-Range Team of Rivals: Women Novelists in the Collective Biographies of Women 
+<p>Alison Booth and Isabel Bielat, “A Mid-Range Team of Rivals: Women Novelists in the Collective Biographies of Women 
 Database,” <i>Victorian Studies</i> 65.1 (Autumn 2022), 17-23. https://dx.doi.org/10.2979/vic.2022.a901281.</p>
 
-“New Nationalism, Legendary Women: Panchanan Bhattacharyya’s Ideals of Indian Womanhood (1921) after the 
+Isabel Bielat, “New Nationalism, Legendary Women: Panchanan Bhattacharyya’s Ideals of Indian Womanhood (1921) after the 
 Great War,” published August 15, 2024. https://scholarslab.lib.virginia.edu/blog/isabel-bielat-CBW/.  
 
-<p>With Alison Booth, “A Limited Comparison of Louisa May Alcott and Harriet Tubman,” published August 05, 
+<p>Alison Booth and Isabel Bielat, “A Limited Comparison of Louisa May Alcott and Harriet Tubman,” published August 05, 
 2024. https://scholarslab.lib.virginia.edu/blog/cbw-about1919-4-alison-isabel/.</p>
 
 <h4>Digital Humanities Conference Presentations associated with <i>Collective Biographies of Women</i></h4>
-<p>With Alison Booth, “Unpacking the Baggage of Women Novelists at the Diamond Jubilee: Digital Methods and 
+<p>Alison Booth and Isabel Bielat, “Unpacking the Baggage of Women Novelists at the Diamond Jubilee: Digital Methods and 
 Critique,” Victorians Institute, Spartanburg, S. C., Oct. 15, 2022.</p 
 <p>Presenter and co-organizer, roundtable and Storymap, <i>Women Novelists of Queen Victoria’s Reign</i>, virtual panel 
 organized by the North American Victorian Studies Association, May 17, 2022.</p>
