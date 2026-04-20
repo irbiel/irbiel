@@ -49,8 +49,8 @@ Sisters Colleges." National Endowment for the Humanities. White Paper. Grant PW-
 <h4><i>Storymaps</i> as Drafting Tool</h4>
 
 <h2><i>Other Digital Humanities Presentations at the University of Virginia</i></h2>
-<p>“Archives in Crisis,” Corcoran Department of History, U. of Virginia, Oct. 10, 2025 </p>
-<p>“The Archive, Your Archive,” Digital Humanities Graduate Practicum, U. of Virginia, Apr. 23, 2025 </p>
+<p>“Archives in Crisis: The British Library and London,” Corcoran Department of History, U. of Virginia, Oct. 10, 2025 </p>
+<p>“The Archive, Your Archive: Methods of Digital Source Work,” Digital Humanities Graduate Practicum, U. of Virginia, Apr. 23, 2025 </p>
 
 
 
