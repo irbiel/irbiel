@@ -1,5 +1,7 @@
-## Isabel Bielat's homepage
-
+## Isabel R. Bielat
+PhD Candidate, Modern Europe
+Digital Humanities Graduate Certificate
+Department of History, University of Virginia
 <!--
 **irbiel/irbiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
