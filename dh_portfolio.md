@@ -47,6 +47,7 @@ Sisters Colleges." National Endowment for the Humanities. White Paper. Grant PW-
 <h3><i>“Romantic Nationalism and Transnational Heroes in British Political Culture, 1789-1905”</i></h3>
 <h4>Expanded Bibliography and Newspaper Analysis</h4>
 <h4><i>Storymaps</i> as Drafting Tool</h4>
+<p>In my personal drafting and mapping of ideas, I juxtaposed the life, death, and marriage dates of six internationally-famous national heroes. I located historic portraits and images of relevant locations, and explored the possibilities of translating my labels into the subjects' primary languages to create a multilingual exploration of identity.</p>
 <h3><i>“‘Worthy of a More Lasting Place’: Emigrant Women and Moral Order in Colonial Australia, 1849-1855”</i></h3>
 <h4><i>Storymaps</i> as Presentation Tool</h4>
 Isabel Bielat, “Unparalleled Lives: Caroline Chisholm and Agnes Weston in Collective Biography,” December 10, 2020.
