@@ -23,7 +23,8 @@ Critique,” Victorians Institute, Spartanburg, S. C., Oct. 15, 2022.</p
 organized by the North American Victorian Studies Association, May 17, 2022.</p>
 
 <h4>Digital Humanities Resources created for <i>Collective Biographies of Women</i></h4>
-<p>Dramatically expanding the collaborative Storymap "Women Novelists re-presented for Queen Victoria's Jubilee," I created interactive timelines correlating nineteenth-century women novelists with biographically-significant locations and relevant portraits or letters. I also created a slideshow juxtaposing the authors' varied reactions to their collaborative project, as quoted from historic correspondence and illustrated with historic portraits. The project can be viewed here: https://storymaps.arcgis.com/stories/12b5b9d930fc42ddacc2d8b3b10a70b5.</p>
+<p>Expanding the collaborative Storymap "Women Novelists re-presented for Queen Victoria's Jubilee," I created interactive timelines correlating nineteenth-century women novelists with biographically-significant locations and relevant portraits or letters. I also created a slideshow juxtaposing the authors' varied reactions to their collaborative project, as quoted from historic correspondence and illustrated with historic portraits. The project can be viewed here: https://storymaps.arcgis.com/stories/12b5b9d930fc42ddacc2d8b3b10a70b5.
+Alison Booth, Isabel Bielat, Lloyd Sy, and Valerie Voight, "Women Novelists re-presented for Queen Victoria's Jubilee: What we can learn from an 1897 book of criticism by and about Victorian women novelists." 2021-2022.</p>
 
 <h3><i>Clippings Project</i></h3>
 <h4>University of Virginia Libraries</h4>
