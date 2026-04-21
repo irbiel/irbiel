@@ -10,7 +10,7 @@ Great War,” published August 15, 2024. https://scholarslab.lib.virginia.edu/bl
 <p>Alison Booth and Isabel Bielat, “A Limited Comparison of Louisa May Alcott and Harriet Tubman,” published August 05, 
 2024. https://scholarslab.lib.virginia.edu/blog/cbw-about1919-4-alison-isabel/.</p>
 
-<h3>ArcGISStoryMaps</h3>
+<h3>ArcGIS StoryMaps</h3>
 <p> Alison Booth, Isabel Bielat, Lloyd Sy, and Valerie Voight, "Women Novelists re-presented for Queen Victoria's Jubilee: 
 What we can learn from an 1897 book of criticism by and about Victorian women novelists." 2021-2022.
 https://storymaps.arcgis.com/stories/12b5b9d930fc42ddacc2d8b3b10a70b5</p>
