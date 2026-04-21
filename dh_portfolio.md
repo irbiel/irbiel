@@ -5,6 +5,9 @@
 
 <h2><i>Featured Collaborations</i></h2>
 <h3><i>Collective Biographies of Women</i></h3>
+<p>Contributed to numerous facets of Alison Booth’s long-running database of English-language multi-subject biographies of women. The project combines annotated bibliography, genre study, a database of historical women, and documentation of narrative patterns by teams of editors in XML markup.</p> 
+<p>More about the project can be read at https://cbw.iath.virginia.edu/about.php</p>
+<p>My database contributions included annotation using controlled vocabularies in XML markup, database entry and correction, location of sources, and an inventory of available texts correlating with projected workflow capacity and priorities. My other interpretive contributions included the article, blogs, StoryMaps, and conference presentations described below Tracing biography and narrative at scale also influenced the development of my dissertation and its associated metadata components.</p>
 
 <h4>Digital Humanities Publications associated with <i>Collective Biographies of Women</i></h4>
 <p>Alison Booth and Isabel Bielat, “A Mid-Range Team of Rivals: Women Novelists in the Collective Biographies of Women 
