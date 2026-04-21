@@ -31,7 +31,7 @@ organized by the North American Victorian Studies Association, May 17, 2022.</p>
 <h3><i>Law Inscribed</i></h3>
 <h4>Special Collections, University of Virginia School of Law</h4>
 <p>In fall 2021, I collaboratively curated a physical and digital exhibit of legal texts from UVA Law Library's Special Collections and the Albert & Shirley Small Special Collections Library. I also suggested the title for the exhibit, "Law Inscribed."</p>
-<p>I photographed, researched, and presented three pamphlets on a seditious libel controversy in the 1760s. I used <i>Storymaps</i> to arrange, magnify, and annotate text features beyond the scope of a physical exhibit. For example, the fragility of the physical objects inspired me to incorporate dramatically-angled photographs of the binding. </p>
+<p>I photographed, researched, and presented three pamphlets on a seditious libel controversy in the 1760s. I used <i>StoryMaps</i> to arrange, magnify, and annotate text features beyond the scope of a physical exhibit. For example, the fragility of the physical objects inspired me to incorporate dramatically-angled photographs of the binding. </p>
 <p>Please see https://archives.law.virginia.edu/exhibits/law-inscribed for the project description and all eight student projects. My personal contribution is at https://archives.law.virginia.edu/exhibits/law-inscribed/bielat/.</p>
 
 <h3><i>College Women: Documenting the Student Experience at the Seven Sisters Colleges</i></h3>
@@ -47,8 +47,10 @@ Sisters Colleges." National Endowment for the Humanities. White Paper. Grant PW-
 <h4>Expanded Bibliography and Newspaper Analysis</h4>
 <h4><i>Storymaps</i> as Drafting Tool</h4>
 <h3><i>“‘Worthy of a More Lasting Place’: Emigrant Women and Moral Order in Colonial Australia, 1849-1855”</i></h3>
-<h4><i>Storymaps</i> as Drafting Tool</h4>
-
+<h4><i>Storymaps</i> as Presentation Tool</h4>
+Isabel Bielat, “Unparalleled Lives: Caroline Chisholm and Agnes Weston in Collective Biography,” December 10, 2020.
+<p>My first complete biographical data StoryMap, complementing a term paper on representations of British women leaders in social and humanitarian work related to empire. The project further influenced the focus of my M.A. thesis, which emphasized the types of data that organizations collected about nineteenth-century women seeking financial support to emigrate to Australia. The project draws on Collective Biographies of Women prosopographical networks, and exemplifies my creative use of StoryMap’s timelines and “map tours” to explore biographical and locational data. The “unparalleled” title reflects the prosopographical conceit that no individuals have truly parallel lives, but they can be artificially placed in parallel by the biographer.<p>
+  
 <h2><i>Other Digital Humanities Presentations at the University of Virginia</i></h2>
 <p>“Archives in Crisis: The British Library and London,” Corcoran Department of History, U. of Virginia, Oct. 10, 2025 </p>
 <p>“The Archive, Your Archive: Methods of Digital Source Work,” Digital Humanities Graduate Practicum, U. of Virginia, Apr. 23, 2025 </p>
