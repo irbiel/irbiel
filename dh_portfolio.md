@@ -50,6 +50,7 @@ Sisters Colleges." National Endowment for the Humanities. White Paper. Grant PW-
 <h2><i>Digital Humanities Components of Solo-Authored Scholarship</i></h2>
 <h3><i>“Romantic Nationalism and Transnational Heroes in British Political Culture, 1789-1905”</i></h3>
 <h4>Expanded Bibliography and Newspaper Analysis</h4>
+<p>To accompany my dissertation, I am completing two types of datasets emphasizing nineteenth-century print culture. I use OpenRefine to improve dataset consistency and identify recurring themes and subjects. The bio-bibliographical project traces the publication metadata of nineteenth-century biographies in multiple languages. A more thematic dataset catalogs the usage of specific political terminology in digitized nineteenth-century British newspapers.</p>
 <h4><i>Storymaps</i> as Drafting Tool</h4>
 <p>In my personal drafting and mapping of ideas, I juxtaposed the life, death, and marriage dates of six internationally-famous national heroes. I located historic portraits and images of relevant locations, and explored the possibilities of translating my labels into the subjects' primary languages to create a multilingual exploration of identity.</p>
 <h3><i>“‘Worthy of a More Lasting Place’: Emigrant Women and Moral Order in Colonial Australia, 1849-1855”</i></h3>
